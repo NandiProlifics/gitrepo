@@ -18,7 +18,7 @@ import org.apache.commons.io.FilenameUtils;
 
 import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
 
-public class test123 {
+public class hello {
 	public Process poc;
 
 	public static void main(String[] args) throws IOException, InterruptedException {
